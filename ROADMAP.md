@@ -1,3 +1,13 @@
+---
+type: Plan
+title: Postern — status and what's left
+description: Last updated 2026-09-04. Running as the only mailbox for amirsalmani.com.
+status: active
+created: 2026-09-17
+timestamp: 2026-09-17
+tags: []
+---
+
 # Postern — status and what's left
 
 Last updated 2026-09-04. Running as the only mailbox for `amirsalmani.com`

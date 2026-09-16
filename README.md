@@ -1,3 +1,13 @@
+---
+type: Readme
+title: Postern
+description: Personal email on Cloudflare's free tier. Bring a domain.
+status: active
+created: 2026-09-17
+timestamp: 2026-09-17
+tags: []
+---
+
 # Postern
 
 **Personal email on Cloudflare's free tier. Bring a domain.**
