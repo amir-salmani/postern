@@ -13,7 +13,6 @@ project:
   owner: amir
   kind: service
   lifecycle: active
-  flow: pr
   visibility: public
   hosting: cloudflare
   toolchain: node
